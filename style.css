@@ -1,7 +1,6 @@
 *{
 margin: 0;
 padding: 0;
-
 }
 
 .cabeçalho{
@@ -11,7 +10,6 @@ display: flex;
 justify-content: space-around;
 align-items: center;
 padding: 24px
-
 }
 .cabeçalho-imagem{
 width: 20%;
@@ -19,7 +17,6 @@ width: 20%;
 .cabeçalho-lista-item{
 display: inline-block;
 padding: 24px;
-
 }
 
 .escola-imagem{
@@ -37,9 +34,18 @@ padding: 24px 0;
 
 .escola-div-conteúdo{
 width: 35%;
-
 }
-.escola{
-padding: 24px;
+.escola-titulo{
+padding: 24px 0;
+}
+.estudante-imagem{
+width: 120px;
+}
 
+.estudante-ícone{
+width: 16px;
+}
+
+.estudante-conteudo-div{
+text-align: center;
 }
